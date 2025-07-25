@@ -59,7 +59,7 @@ Each stakeholder had different goals and required tailored KPIs:
 Interactive dashboard hosted on Tableau Public:  
 🔗 [View the dashboard](https://public.tableau.com/views/SpotifyDashboardProject_17432915912560/Operations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Spotify Dashboard Screenshot](03_Dashboard/ Dashboard Spotify_Dashoard.png)
+![Dashboard Preview](03_Dashboard/Spotify_Dashboard.png)
 
 ---
 
