@@ -54,6 +54,44 @@ Each stakeholder had different goals and required tailored KPIs:
 
 ---
 
+## 📅 Project Plan
+
+This project was split into **two main phases**:
+
+### Phase 1 – Planning & Exploration:
+- Explored and cleaned the dataset
+- Identified key metrics and stakeholder needs
+- Defined project goals and KPIs
+
+📄 [View full project plan](01_Planning/project_plan.md)
+
+### Phase 2 – Analysis & Visualization:
+- Built Tableau dashboard based on KPIs
+- Created a visual story for each stakeholder
+
+---
+
+## 📊 Dataset
+
+The dataset contains Spotify's financial and user metrics from March 2017 - March 2023, including:
+- Monthly Active Users (Premium & Ad-supported)
+- Total Revenue & Revenue by Stream
+- ARPU (Average Revenue Per User)
+- Cost of Revenue, R&D, and Marketing Expenses
+
+🗂️ [View Dataset](02_Data/spotify_data.csv)
+
+I calculated the following columns in the dataset:
+- Premium Revenue Share
+- Premium Profit Margin
+- Ad Revenue Share
+- Ad Profit Margin
+- Ad ARPU
+- Conversion Rate
+- Operational Efficiency Ratio
+
+---
+
 ## 📊 Tableau Dashboard
 
 Interactive dashboard hosted on Tableau Public:  
