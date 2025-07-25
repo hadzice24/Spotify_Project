@@ -106,3 +106,5 @@ Interactive dashboard hosted on Tableau Public:
 - Premium users are the primary revenue driver, but ad-supported growth is rising
 - ARPU has declined slightly, suggesting market saturation or pricing pressure
 - R&D spend is growing, but marketing can be optimized for efficiency
+
+📄 [View Closing Report](https://www.notion.so/Spotify-Closing-Report-23b52541c16580018461ca322eae3b96?source=copy_link)
