@@ -63,7 +63,7 @@ This project was split into **two main phases**:
 - Identified key metrics and stakeholder needs
 - Defined project goals and KPIs
 
-📄 [View full project plan](01_Planning/[Spotify Project Plan.pdf])
+📄 [View full project plan](01_Planning/spotify_project_plan.pdf)
 
 ### Phase 2 – Analysis & Visualization:
 - Built Tableau dashboard based on KPIs
