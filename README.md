@@ -13,7 +13,7 @@ The end goal is to build a stakeholder-specific Tableau dashboard that provides 
 
 ## 🧠 Problem Statement
 
-Spotify leadership needs to understand:
+Spotify stakeholders needs to understand:
 - **User trends** (Premium vs. Ad-supported)
 - **Revenue breakdown** and ARPU trends
 - **Operational cost efficiency** across R&D, marketing, and revenue costs
@@ -67,7 +67,7 @@ This project was split into **two main phases**:
 
 ### Phase 2 – Analysis & Visualization:
 - Built Tableau dashboard based on KPIs
-- Created a visual story for each stakeholder
+- Summarized findings and takeaways in a report
 
 ---
 
