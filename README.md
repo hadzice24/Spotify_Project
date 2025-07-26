@@ -1,4 +1,10 @@
 # 📊 Spotify Performance Analysis Project
+---
+
+Role: Data Analyst & BI Developer
+Tools Used: Tableau, Google Sheets
+
+---
 
 ## 🎯 Overview
 
@@ -17,13 +23,6 @@ Spotify stakeholders needs to understand:
 - **User trends** (Premium vs. Ad-supported)
 - **Revenue breakdown** and ARPU trends
 - **Operational cost efficiency** across R&D, marketing, and revenue costs
-
----
-
-## 🛠️ Tools Used
-
-- **Google Sheets** – for data exploration and cleaning  
-- **Tableau** – for data visualization and dashboard creation
 
 ---
 
