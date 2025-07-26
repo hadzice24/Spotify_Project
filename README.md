@@ -1,13 +1,13 @@
 # 📊 Spotify Performance Analysis Project
 
-**Role:** Data Analyst & BI Developer  
+**Role:** BI Analyst  
 **Tools Used:** Tableau, Google Sheets
 
 ---
 
 ## 🎯 Overview
 
-As a BI Analyst at Spotify, this project focuses on transforming financial and user engagement data into actionable insights for three key stakeholders:  
+This project focuses on transforming financial and user engagement data into actionable insights for three key stakeholders:  
 - **Sarah (Head of Strategy)**  
 - **Mark (Director of Revenue)**  
 - **Olivia (VP of Operations)**
