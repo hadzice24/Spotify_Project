@@ -1,8 +1,7 @@
 # 📊 Spotify Performance Analysis Project
----
 
-Role: Data Analyst & BI Developer
-Tools Used: Tableau, Google Sheets
+**Role:** Data Analyst & BI Developer  
+**Tools Used:** Tableau, Google Sheets
 
 ---
 
